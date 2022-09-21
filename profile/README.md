@@ -1,6 +1,6 @@
 # Rust-Study-Group
 
-Rust Study Group is a study group from individuals that are interested in learning Rust as a programming language.
+Rust Study Group is a study group of individuals that are interested in learning Rust as a programming language.
 
 The study group is open and free for anyone to join. we have daily scrum meetings from 8:00pm to 8:30pm to share daily learnings with each other. You can join the Scrum sessions using this calendar [Rust Discussions](https://calendar.google.com/event?action=TEMPLATE&tmeid=NzBvbWFwMzVja282Y2I5bGNncTY2YjlrNjRvNmFiOW9jOHFqY2JiMTZkaGo2YzlrNnRobTZwOWpjNF8yMDIyMDkxNVQxNzAwMDBaIGhocnFoMGs4MnY1OGlpMmo5bDIxajdlOG5zQGc&tmsrc=hhrqh0k82v58ii2j9l21j7e8ns%40group.calendar.google.com&scp=ALL).
 
