@@ -9,19 +9,23 @@ The goal of the study group is to go through [The Rust Programming Language](htt
 ## Resources
 1. [The Rust Programming Language](https://doc.rust-lang.org/book/)
 ## Tracker
+---
 ### Day One
 
 Planning and Goal Setting
 
+---
 ### Day Two 
 
 Chapter One
 
+---
 ### Day Three 
 Chapter Two
 
 Discussions by [Fahad](https://)
 
+---
 ### Day Four
 Chapter Three
 
