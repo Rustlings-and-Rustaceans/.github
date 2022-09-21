@@ -22,9 +22,14 @@ Chapter Two
 
 Discussions by [Fahad](https://)
 
+### Day Four
+Chapter Three
+
+Discussions by [kolynzb](https://github.com/kolynzb)
+
 **Resources**
 
-[Link to Resource](https://) 
+* [LEARN RUST WITH ME](https://github.com/kolynzb/rust-tutor)
 
 ## Contribution Guide
 The README file is in GitHub repo [.github]([https://](https://github.com/Rustlings-and-Rustaceans/.github)).
